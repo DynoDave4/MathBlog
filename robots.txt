@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://DynoDave4/MathBlog.github.io/al-folio/sitemap.xml
+Sitemap: https://DynoDave4.github.io/al-folio/sitemap.xml
